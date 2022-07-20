@@ -1,4 +1,4 @@
 #Jekyll configuration
 title: Lehi FamilySearch Center
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-slate
 markdown: kramdown
