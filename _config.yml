@@ -1,5 +1,5 @@
 #Jekyll configuration
 name: Lehi FamilySearch Center
 description: Web pages for the LehiFSC
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 markdown: kramdown
