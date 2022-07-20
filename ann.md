@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Ward Bulletin Announcement for Lehi FamilySearch Center"
+title: Lehi FamilySearch Center
+description: Ward Bulletin Announcement
 permalink: /ann/
 ---
 You can copy the announcement below and paste into your ward bulletin.
