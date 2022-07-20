@@ -12,6 +12,7 @@ To copy:
 * click where you want to paste
 * press control-V to paste (cmd-V for Mac)
 
+---
 
 **Lehi FamilySearch Center**: Your one stop for family history work!
 
