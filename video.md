@@ -1,10 +1,7 @@
 ---
-layout: default
 title: "Video Conversion at Home"
-permalink: /video/
+permalink: /video
 ---
-# Video Conversion at Home
-
 **Instructions from Lehi FamilySearch Center for doing video conversion at home**
 
 If you still own a VCR or video camera for your videocassettes, you can do your own video conversion at home, using the same hardware and software used at the Lehi FamilySearch Center, by following these instructions:
