@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Ward Bulletin Announcement for Lehi FamilySearch Center"
 permalink: /ann/
 ---
