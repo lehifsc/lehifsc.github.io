@@ -1,3 +1,7 @@
+layout: page
+title: "Video Conversion at Home"
+permalink: /video/
+
 # Video Conversion at Home
 
 **Instructions from Lehi FamilySearch Center for doing video conversion at home**
