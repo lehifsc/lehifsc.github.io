@@ -4,7 +4,6 @@ description: This is a test
 permalink: /test/
 ---
  
- Test
- ====
+## Test
 
 * This is a test.
