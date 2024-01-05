@@ -2,4 +2,10 @@
 title: "Lehi FamilySearch Center"
 permalink: /index
 ---
-Click [here](https://lehifsc.org) to go to the Lehi FamilySearch website
+### Lehi FamilySearch Center Links
+
+[Lehi FamilySearch](https://lehifsc.org) website
+
+Instructions for doing [video conversion](http://pages.lehifsc.org/video) at home
+
+[Ward bulletin announcement](http://pages.lehifsc.org/ann)
